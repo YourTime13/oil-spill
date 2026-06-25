@@ -18,3 +18,5 @@ Nie instalujecie żadnej bazy u siebie. Docker zrobi to za Was.
    docker compose up -d
 
 To tyle na razie dziekuje za uwage, springa do testowania odpalacie normalnie, bedziemy spinac pythona z java to bedziemy sie potem martwic jak to odpalac
+
+Aha no i pamiętajcie pullowac na biezaco zebysmy mialy aktualna wersje zeby merge konfliktow nie bylo potem XD
