@@ -1,4 +1,6 @@
 # Jak odpalac projekt
+## Wazne info
+Jak wejdziecie se w zakladke issues tam sa zadania do zrobienia, jakies tam losowe co pamietalam to wpisalam, mozecie tam dopisywac co wam sie przypomni to sie nie zajebiemy w akcji jak bedziemy robic i o niczyzm nie zapomnimy
 
 ## Co musicie mieć zainstalowane
 Przed startem upewnijcie się, że macie na komputerach:
